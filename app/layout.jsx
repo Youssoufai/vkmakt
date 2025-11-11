@@ -3,6 +3,7 @@ import "./globals.css";
 export const metadata = {
   title: "VkMakt",
   description: "VKMakt - Building the future through innovation and technology.",
+  icon: "/hardware.png",
   icons: {
     icon: "/hardware.png", // standard favicon
     shortcut: "/hardware.png", // optional smaller icon
